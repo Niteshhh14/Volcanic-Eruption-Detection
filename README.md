@@ -13,7 +13,7 @@ This project detects volcanic eruptions by analyzing seismic signals in MATLAB u
 
 ## How to Run
 1. Clone or download the repository.
-2. Open the MATLAB script (`volcanic_eruption_detection.m`).
+2. Open the MATLAB script (`Volcanic.m`).
 3. Run the script in MATLAB to analyze seismic data:
    ```matlab
-   run('volcanic_eruption_detection.m')
+   run('Volcanic.m')
